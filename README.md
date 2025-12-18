@@ -1,3 +1,3 @@
 # Kaggle_Titanic
-this version
-Public Score 0.78708
+
+solution_v1.2  Public Score 0.76076
